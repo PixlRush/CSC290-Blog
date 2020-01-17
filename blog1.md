@@ -1,0 +1,11 @@
+# Blog 1 - Fingers Crossed
+
+> "Customer Service" is never quite a perfect system. Write about one bad or great 'customer service' experience you've had. Perhaps you were upset with an employee or an establishment OR you had an issue with a customer. Alternatively, maybe there was a time an establishment went above and beyond. Set the scene, what happened? What were the desires on both sides? What went wrong or could have been resolved better OR what could have gone worse? If you can't quite think of one, try to recall an issue a friend or family had with customer service or ones you've seen in movies or television. 
+
+We've all seen the spam e-mails. Companies asking for your e-mail address to send you nice updates about their service, even though you've not even checked the box to get those e-mails. Important e-mails, buried under spam. Sure you can put it on a spam filter for the company clearly not respecting your terms of service, but that's not the point.
+
+This brings me nicely to the elephant in the room, a blog hosted on a `github.io` site. We were clearly instructed to use something nice, something large scale, something that **needs your e-mail**. However I chose to do this instead, make my own blog from the ground up. Build it into Github, something I am already spammed by. This is the customer disservice by constant e-mails with no unsubscribe button.
+
+I have an account on Tumblr, it's a very good blogging website that went vastly to far into... overly memetic subcultures. I had a blog, it got some followers and eventually I became friends with other runners of blogs. However the daily emails were not to be desired. I didn't tick the box to let it send me them, but I still got them. Useless item after useless item, all eventually caught by the spam filter. However Tumblr wasn't the only site to do this, eventually most of my accounts on websites were found in my spam folder; the e-mails I wanted to see, blocked. Eventually the spam filter caught them all, but if I needed to get them to stop, I had to go on the great Unsubscribe Button hunt. Even then, finding it wasn't enough sometimes, the button lied.
+
+All in all, hopefully this horrible customer service through blatant lying is good enough of a reason to make this okay. Who knows after all? Maybe this site too will send me spam. But there's only one way to find out!
