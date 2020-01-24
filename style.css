@@ -33,6 +33,8 @@ blockquote{
 
 .blog{
 	margin: auto;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 	max-width: 500px;
 	background-color: #0004;
 	padding: 5px;
