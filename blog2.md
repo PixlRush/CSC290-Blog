@@ -1,0 +1,14 @@
+# Blog 2 - Hello, World!
+
++ You **must** integrate at least one compound complex sentence (two clauses with one dependent clause) in your blog post. 
++ You **must** (correctly) use at least one semi-colon in your blog post.
+
+> Think back to your transition into university. What did you wish you knew before coming to university? This can be about organization, time management, course load, marks, anything relating to the university environment. How would you have better prepared for university if you knew this piece of information beforehand? Was there a situation you encountered in your first year where this information would have been useful? What is one piece of advice you would give to high school students coming into university? Elaborate why this is important and how it would make for an easier transition into university.
+
+I still remember the day when I first stepped into my new home for the year ahead, unit OPH-512A. It wasn't too big but it was home. With this unit came a community; however I knew none of them. I was alone. That would only last for a short time though as I came to grow close to those in my community, generating long-lasting friendships that will help me the for the rest of my time here in UTM.
+
+The first few weeks went well: perfect class attendance, a solid understanding of the material, a good relationship with my professors. However there was MAT102's first quiz coming up, the first of my time at UTM. A group of friends in my community and I made our way to the test centre together, excited and prepared; we left together, our heads hanging low. That first quiz was a rude awakening to the level of mastery needed on the quizzes to follow. We averaged a forty percent on that quiz.
+
+We were under-prepared for this quiz; however it served a valuable lesson, more valuable than any lecture could teach. That lesson is simply: evaluations ask a lot more from you than expected. Everyone thought they were ready to write it; but they were not ready. The quiz asked more from us than we expected. These evaluations aren't worth ten percent - on average - for no reason.
+
+This lesson should serve to help those coming into first year. Especially given most students reading this will be trying to get into the Computer Science Major. The requirement for MAT102 - which has jumped up to eighty percent - will have them experiencing something like this; however the lesson in this blog post should prepare the students for their first quiz. If one would repeat the events above, they would lose on average five percent when they only have twenty percent to work with.
