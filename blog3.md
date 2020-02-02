@@ -21,6 +21,16 @@ Further down they state in their conclusion:
 
 This further cements the conflict of interest. They cite *"classroom response systems"* specifically in the last line of their conclusion to drive home their point and generate new customers.
 
-To conclude, this article is a textbook example of conflict of interest. There are two major sections where Tophat praises the utility of classroom response systems, when they sell such a service.
+That is not all, there is a selection bias in place here. For such a question like *"How does Technology Impact Student Learning?"*, they manage to only touch on the positives. Their major points for their paragraphs are as follows:
+
+> + Technology affords better access to resources
+> + Technology can improve student engagement
+> + Technology can expand classroom boundaries
+> + Technology can encourage self-paced learning
+> + Technology can promote innovative teaching techniques
+
+In **none** of these paragraphs does Tophat touch on the bad side of technology in the classroom. Asking instructors for a secondary or post-secondary course for their opinion on technology, they will definitely touch on the good parts; however, they will almost certainly touch on its bad side at least once. Tophat is clearly using a selection bias in the content of their article, reinforcing my point about conflict of interest.
+
+To conclude, this article is a textbook example of conflict of interest, with a bit of selection bias thrown in. There are two major sections where Tophat praises the utility of classroom response systems, when they sell such a service. Additionally they never touch on the bad side of technology, only the good.
 
 [How Does Technology Impact Student Learning? &mdash; Tophat](https://tophat.com/blog/how-does-technology-impact-student-learning/)
