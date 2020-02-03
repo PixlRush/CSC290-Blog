@@ -7,7 +7,7 @@
 
 > During Lecture 3, numerous logical fallacies of informal reasoning were introduced.  Find a news article, blog, or scientific paper (the more recent and prestigious the source the better) that commits (in your opinion) at least one logical fallacy that invalidates their argument.
 
-What if you could harness the power of technology to transform education forever? How can it be done? Tophat argues that technology is a tool to enhance learning to bring it to an entire new tier of effectiveness. They argue that educators do more than *"simply ‘tolerate’ it"*.
+What if you could harness the power of technology to transform education forever? How can it be done? Tophat argues that technology is a tool to enhance learning to elevate it to a new tier of effectiveness. They argue that educators do more than *"simply ‘tolerate’ it"*.
 
 Tophat makes some amazing points in their article. It makes such an argument for the accessibility technology grants; however, they are simply not the company to make that argument. They have a very strong argument as shown below:
 
@@ -21,7 +21,7 @@ Further down they state in their conclusion:
 
 This further cements the conflict of interest. They cite *"classroom response systems"* specifically in the last line of their conclusion to drive home their point and generate new customers.
 
-That is not all, there is a selection bias in place here. For such a question like *"How does Technology Impact Student Learning?"*, they manage to only touch on the positives. Their major points for their paragraphs are as follows:
+That is not all, there is a selection bias in place here. For such a question like *"How does Technology Impact Student Learning?"*, they touch on only the positives. Their major points for their paragraphs are as follows:
 
 > + Technology affords better access to resources
 > + Technology can improve student engagement
