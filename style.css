@@ -20,6 +20,9 @@ h1, header{
 p{
 	padding: 0.5em 0em;
 }
+jp{
+	font-family: "KokoroMinchoutai";
+}
 blockquote{
 	margin: auto;
 	margin-top: 0.5em;
@@ -29,6 +32,9 @@ blockquote{
 	padding-left: 1em;
 	font-style: italic;
 	font-weight: lighter;
+}
+hr{
+	border: 1px solid #0090b0;
 }
 
 .blog{
